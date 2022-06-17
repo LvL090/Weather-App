@@ -26,7 +26,7 @@ function Inputs() {
           <button name='metric' className='text-white font-light text-lg '>
               ºC
           </button>
-            <p className='text-xl text-white mx-1'></p>
+            <p className='text-xl text-white mx-1'>|</p>
           <button name='imperial' className='text-white font-light text-lg'>
               ºF
           </button>
